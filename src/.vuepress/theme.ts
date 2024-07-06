@@ -39,7 +39,7 @@ export default hopeTheme({
   blog: {
     roundAvatar: true,
     hotReload: true,
-    avatar: "https://pi.escaped.icu/logo-icon.png",
+    avatar: "/logo-icon.png",
     description: "「自由朝天,向心出发」",
     intro: "/",
     medias: {
