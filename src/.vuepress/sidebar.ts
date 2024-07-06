@@ -2,7 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
     {
       text: "团队简介",
       icon: "book",
