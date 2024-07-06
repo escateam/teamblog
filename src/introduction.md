@@ -43,7 +43,7 @@ tag:
 <img src="https://escateam.icu/3.jpg" height="100px" width="100px" alt="社交单词" />
 <br>
 
-**创始成员，摸鱼佬**
+**创始成员，硬件顾问，摸鱼佬**
 
 *我们都生活在阴沟里，但仍有人仰望星空。*
 
