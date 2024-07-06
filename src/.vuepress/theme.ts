@@ -40,9 +40,14 @@ export default hopeTheme({
   sidebar: [
     "/",
     {
-      text: "逸燧博客",
+      text: "团队简介",
       icon: "book",
-      link: "https://escaped.icu",
+      link: "/introduction",
+    },
+    {
+      text: "项目总览",
+      icon: "project",
+      link: "/project",
     },
     {
       text: "友情链接",
@@ -59,7 +64,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    roundAvatar: true,
+    roundAvatar: false,
     hotReload: true,
     avatar: "/logo-icon.png",
     description: "「自由朝天,向心出发」",
