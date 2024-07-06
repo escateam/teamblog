@@ -2,9 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "主页"
-  ],
-  "团队简介": [
     "",
     {
       text: "团队简介",
