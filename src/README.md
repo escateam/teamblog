@@ -2,8 +2,8 @@
 home: true
 layout: BlogHome
 icon: home
-bgImage: https://pi.escaped.icu/logo-nobg.png
-bgImageDark: https://pi.escaped.icu/logo-nobg.png
+bgImage: /logo-nobg.png
+bgImageDark: /logo-nobg.png
 title: 主页
 heroText: 朝天工作室
 heroFullScreen: true
