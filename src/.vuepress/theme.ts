@@ -7,6 +7,8 @@ const MR_HOPE_AVATAR =
 export default hopeTheme({
   hostname: "https://escateam.icu/",
 
+  darkmode: "enable",
+
   author: {
     name: "朝天工作室",
     url: "https://escateam.icu/",
