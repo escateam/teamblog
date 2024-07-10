@@ -1,6 +1,8 @@
 ---
 star: 888
 
+sticky: 888
+
 category:
   - 项目
 

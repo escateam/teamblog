@@ -1,6 +1,8 @@
 ---
 star: 999
 
+sticky: 999
+
 category: 
   - 简介
 
