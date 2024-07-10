@@ -47,7 +47,7 @@ export default hopeTheme({
     {
       text: "项目总览",
       icon: "project",
-      link: "/project",
+      link: "/project/",
     },
     {
       text: "友情链接",
@@ -58,7 +58,7 @@ export default hopeTheme({
 
   footer: 'Powered By EscaWorkTeam',
 
-  copyright: '2023-present ©朝天工作室',
+  copyright: 'Copyright 2023-present ©朝天工作室',
   
   // 显示脚页
   displayFooter: true,
@@ -66,7 +66,7 @@ export default hopeTheme({
   blog: {
     roundAvatar: false,
     hotReload: true,
-    avatar: "/logo-icon.png",
+    avatar: "/logo.jpg",
     description: "「自由朝天,向心出发」",
     intro: "/",
     medias: {
@@ -82,7 +82,7 @@ export default hopeTheme({
 
   // page meta
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "编辑此页",
   },
 
   plugins: {

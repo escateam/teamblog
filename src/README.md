@@ -10,7 +10,7 @@ heroFullScreen: true
 tagline: 「自由朝天,向心出发」----EscaWorkTeam
 projects:
   - icon: project
-    name: 博客主地址
+    name: 简介
     desc: 成员详情及开发运营项目
     link: /introduction
 
@@ -18,5 +18,10 @@ projects:
     name: 加入EscaWorkTeam
     desc: 加入朝天工作室
     link: https://qm.qq.com/q/mkVsJhG10s
+  
+  - icon: friend
+    name: 友情链接
+    desc: 我们的朋友
+    link: /friend
 
 ---
