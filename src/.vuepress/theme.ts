@@ -27,9 +27,9 @@ export default hopeTheme({
   navbar: [
     "/",
     {
-      text: "逸燧博客",
-      icon: "book",
-      link: "https://escaped.icu",
+      text: "留言板",
+      icon: "tip",
+      link: "/vip",
     },
     {
       text: "友情链接",
@@ -50,6 +50,10 @@ export default hopeTheme({
       text: "项目总览",
       icon: "project",
       link: "/project/",
+      collapsible: true,
+      children: [
+        "README.md",
+      ],
     },
     {
       text: "友情链接",

@@ -14,14 +14,18 @@ projects:
     desc: 成员详情及开发运营项目
     link: /introduction
 
-  - icon: /logo/QQ.png
-    name: 加入EscaWorkTeam
-    desc: 加入朝天工作室
-    link: https://qm.qq.com/q/mkVsJhG10s
-  
+  - icon: project
+    name: 项目
+    desc: 我们正在开发/已经开发的项目
+
   - icon: friend
     name: 友情链接
     desc: 我们的朋友
     link: /friend
 
+  - icon: /logo/QQ.png
+    name: 加入EscaWorkTeam
+    desc: 加入朝天工作室
+    link: https://qm.qq.com/q/mkVsJhG10s
+  
 ---
