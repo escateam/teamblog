@@ -10,11 +10,8 @@ tag:
 
 ---
 
-<div align='center'>
-
 # 团队简介
 
-</div>
 
 ## 团队成员
 <div align='center'>
