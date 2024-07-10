@@ -8,9 +8,6 @@ tag:
   - link
 
 ---
-<div align='center'>
 
 # 友情链接
-
-</div>
 
