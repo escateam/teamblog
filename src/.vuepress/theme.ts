@@ -7,6 +7,8 @@ const MR_HOPE_AVATAR =
 export default hopeTheme({
   hostname: "https://escateam.icu/",
 
+  breadcrumb: true,
+
   author: {
     name: "朝天工作室",
     url: "https://escateam.icu/",

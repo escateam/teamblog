@@ -1,5 +1,9 @@
 ---
 
+prev: false
+
+next: /project/
+
 category: 
   - 简介
 
@@ -27,8 +31,6 @@ tag:
 
 *「梦在前方,路在脚下」*
 
-[开发项目](/project/)
-
 ### Rvliak
 <img src="https://escateam.icu/2.jpg" height="100px" width="100px" alt="社交图像" />
 <br>
@@ -36,8 +38,6 @@ tag:
 **创始成员，开发者**
 
 *数据流转，以太构建，游戏人生，狼门永存！！！*
-
-[开发项目](/project/)
 
 ### 凌汐
 <img src="https://escateam.icu/3.jpg" height="100px" width="100px" alt="社交单图像" />
@@ -66,4 +66,3 @@ tag:
 > [!tip]
 > 如果您想要加入工作室，需要先加入交流群找**群主**或其它工作室的**创始成员**申请哦
 
-### [项目总览](/project/)
