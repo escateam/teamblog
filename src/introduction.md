@@ -1,9 +1,5 @@
 ---
 
-prev: false
-
-next: /project/
-
 category: 
   - 简介
 
