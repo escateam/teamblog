@@ -1,4 +1,6 @@
 ---
+star: 666
+
 category: 
   - friend
   - 友情链接

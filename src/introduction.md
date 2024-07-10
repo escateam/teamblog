@@ -1,4 +1,5 @@
 ---
+star: 999
 
 category: 
   - 简介
