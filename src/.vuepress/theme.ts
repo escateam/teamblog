@@ -52,8 +52,14 @@ export default hopeTheme({
       link: "/project/",
       collapsible: true,
       children: [
-        "bot.md",
-        "mc.md",
+        {
+          text: "Yunzai机器人项目",
+          link: "/project/bot",
+        },
+        {
+          text: "公共mc服务器项目",
+          link: "/project/mc"
+        },
       ],
     },
     {
