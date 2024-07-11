@@ -43,7 +43,7 @@ export default hopeTheme({
     "/",
     {
       text: "团队简介",
-      icon: "book",
+      icon: "lightbulb",
       link: "/introduction",
     },
     {
