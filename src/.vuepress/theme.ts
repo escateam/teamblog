@@ -27,14 +27,19 @@ export default hopeTheme({
   navbar: [
     "/",
     {
-      text: "留言板",
-      icon: "tip",
+      text: "📕留言板",
+      icon: "lightbuld",
       link: "/vip",
     },
     {
-      text: "友情链接",
+      text: "✨友情链接",
       icon: "friend",
       link: "/friend",
+    },
+    {
+      text: "赞助",
+      icon: "/like.png",
+      link: "/like",
     },
   ],
 

@@ -1,7 +1,7 @@
 ---
-star: 666
+star: 777
 
-sticky: 666
+sticky: 777
 
 category: 
   - friend
