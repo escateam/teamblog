@@ -10,7 +10,7 @@ sticky: 555
 
 ### 欢迎赞助，您赞助的每一分钱都将用于服务器的维护，成为我们开发的动力
 
-<img src="wx.jpeg" height="50%" width="50%" alt="赞赏吗" />
+<img src="wx.jpg" height="50%" width="50%" alt="赞赏吗" />
 
 
 ### 赞助列表（无排名，不分先后）
