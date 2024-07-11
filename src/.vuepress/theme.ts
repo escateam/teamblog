@@ -103,6 +103,7 @@ export default hopeTheme({
   contributors: false,
 
   plugins: {
+    sitemap: true,
     seo: true,
     blog: true,
     /** 启动评论服务 */
