@@ -52,7 +52,8 @@ export default hopeTheme({
       link: "/project/",
       collapsible: true,
       children: [
-        "README.md",
+        "bot.md",
+        "mc.md,"
       ],
     },
     {
