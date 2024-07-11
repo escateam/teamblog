@@ -95,11 +95,15 @@ export default hopeTheme({
 
   // page meta
   metaLocales: {
-    editLink: false,
-    contributors: false,
+
   },
+  
+  editLink: false,
+
+  contributors: false,
 
   plugins: {
+    seo: true,
     blog: true,
     /** 启动评论服务 */
     comment: {
