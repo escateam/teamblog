@@ -53,7 +53,7 @@ export default hopeTheme({
       collapsible: true,
       children: [
         "bot.md",
-        "mc.md,"
+        "mc.md",
       ],
     },
     {
