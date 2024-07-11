@@ -9,8 +9,6 @@ export default hopeTheme({
 
   breadcrumb: true,
 
-  contributors: false,
-
   author: {
     name: "朝天工作室",
     url: "https://escateam.icu/",
@@ -97,7 +95,8 @@ export default hopeTheme({
 
   // page meta
   metaLocales: {
-    editLink: "编辑此页",
+    editLink: false,
+    contributors: false,
   },
 
   plugins: {
