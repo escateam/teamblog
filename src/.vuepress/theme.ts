@@ -19,7 +19,7 @@ export default hopeTheme({
 
   logo: "https://pi.escaped.icu/logo-icon.ico",
 
-  repo: "hzqlingmou/teamblog",
+  repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
 
