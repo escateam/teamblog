@@ -18,5 +18,5 @@ tag:
 
 ## 目录
 
-- [Yunzai机器人](./bot)
-- [mc我的世界服务器](./mc)
+- [Yunzai机器人](/project/bot)
+- [mc我的世界服务器](/project/mc)
