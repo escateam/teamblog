@@ -82,7 +82,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    roundAvatar: false,
+    roundAvatar: true,
     hotReload: true,
     avatar: "/logo.png",
     description: "「自由朝天,向心出发」",
