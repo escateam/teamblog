@@ -4,7 +4,7 @@ star: 777
 sticky: 777
 
 category:
-  - F&Q
+  - f&q
 
 tag:
   - 常见问题
