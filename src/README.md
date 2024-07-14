@@ -17,6 +17,7 @@ projects:
   - icon: project
     name: 项目
     desc: 我们正在开发/已经开发的项目
+    link: /project/
 
   - icon: friend
     name: 友情链接
