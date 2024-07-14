@@ -7,7 +7,7 @@ bgImageDark: /logo-nobg.png
 title: 主页
 heroText: 朝天工作室
 heroFullScreen: true
-tagline: 「自由朝天,向心出发」----EscaWorkTeam
+tagline: 「自由朝天,向心出发」
 projects:
   - icon: project
     name: 简介
