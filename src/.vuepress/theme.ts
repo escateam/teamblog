@@ -47,12 +47,12 @@ export default hopeTheme({
   sidebar: [
     "/",
     {
-      text: "团队简介",
+      text: "🎫团队简介",
       icon: "lightbulb",
       link: "/introduction",
     },
     {
-      text: "项目总览",
+      text: "🛃项目总览",
       icon: "project",
       link: "/project/",
       collapsible: true,
@@ -68,7 +68,7 @@ export default hopeTheme({
       ],
     },
     {
-      text: "友情链接",
+      text: "👬友情链接",
       icon: "friend",
       link: "/friend",
     },
