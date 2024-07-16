@@ -1,3 +1,6 @@
+---
+order: 2
+---
 # 我的世界公共服务器项目
 
 ### 简介
@@ -7,4 +10,4 @@
 
 ![](/minecraft.png)
 
-### [文档](https://docs.escateam.icu)
+### [文档](https://mcdocs.escateam.icu)

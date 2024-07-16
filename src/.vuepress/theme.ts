@@ -37,6 +37,13 @@ export default hopeTheme({
       link: "/friend",
     },
     {
+      text: "💰业务栏",
+      icon: "layout",
+      link: "/service/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "赞助",
       icon: "/like.png",
       link: "/like",
@@ -56,16 +63,14 @@ export default hopeTheme({
       icon: "project",
       link: "/project/",
       collapsible: true,
-      children: [
-        {
-          text: "Yunzai机器人项目",
-          link: "/project/bot",
-        },
-        {
-          text: "公共mc服务器项目",
-          link: "/project/mc"
-        },
-      ],
+      children: "structure",
+    },
+    {
+      text: "💰业务列表",
+      icon: "layout",
+      link: "/service/",
+      collapsible: true,
+      children: "structure",
     },
     {
       text: "👬友情链接",

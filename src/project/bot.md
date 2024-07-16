@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 # Yunzai机器人项目
 
 ### 简介
@@ -9,6 +13,6 @@
 
 ![](/help.jpg)
 
-### 代挂
+### 免费代挂服务
 
-[戳我传送至文档](https://bot.escateam.icu)
+[戳我传送至文档](https://botdocs.escateam.icu)

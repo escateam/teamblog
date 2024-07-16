@@ -19,6 +19,11 @@ projects:
     desc: 我们正在开发/已经开发的项目
     link: /project/
 
+  - icon: project
+    name: 业务
+    desc: 我们的服务/业务
+    link: /project/
+
   - icon: friend
     name: 友情链接
     desc: 我们的朋友
