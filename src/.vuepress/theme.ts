@@ -40,8 +40,6 @@ export default hopeTheme({
       text: "💰业务栏",
       icon: "layout",
       link: "/service/",
-      collapsible: true,
-      children: "structure",
     },
     {
       text: "赞助",
@@ -70,14 +68,25 @@ export default hopeTheme({
       icon: "layout",
       link: "/service/",
       collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "👬友情链接",
-      icon: "friend",
-      link: "/friend",
+      children: [
+        {
+          text: "代建云崽",
+          link: "/service/yunzai-biuld",
+        },
+        {
+          text: "代建waline",
+          link: "/service/waline",
+        },
+        {
+          text: "👬友情链接",
+          icon: "friend",
+          link: "/friend",
+        },
+      ],
     },
   ],
+        
+    
 
   footer: 'Powered By EscaWorkTeam',
 
