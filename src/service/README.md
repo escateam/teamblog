@@ -21,7 +21,7 @@ sticky: 444
 | 云崽代挂                  | 登录您的QQ或微信账号                             | [查看详情](https://botdocs.escateam.icu) | 免费    |
 | 代建云崽                  | 直接帮您搭建云崽                                 | [查看详情](/service/yunzai-biuld) | ￥20/次 |
 | 代建waline<br /> 评论系统 | 直接帮您代建waline                               | [查看详情](/service/waline)       | ￥10/次 |
-| 远程指导                  | 当您遇到困难时，人工远程指导                     | [查看详情](/service/teach)        | ￥2/次  |
+| 远程指导                  | 当您遇到困难时，人工远程指导 | [查看详情](/service/teach)        | ￥1/次  |
 | 专业版云崽                | 您的云崽将拥有一个独立系统<br />您享有全部控制权 | 查看详情                       | 缺货    |
 
 </div>
