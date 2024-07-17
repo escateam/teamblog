@@ -77,7 +77,7 @@ export default hopeTheme({
       ],
     },
     {
-      text: "💰业务列表",
+      text: "业务列表",
       icon: "layout",
       link: "/service/",
       collapsible: true,

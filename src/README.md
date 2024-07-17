@@ -22,7 +22,7 @@ projects:
   - icon: project
     name: 业务
     desc: 我们的服务/业务
-    link: /project/
+    link: /service/
 
   - icon: friend
     name: 友情链接
