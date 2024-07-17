@@ -71,3 +71,27 @@ tag:
 > [!tip]
 > 如果您想要加入工作室，需要先加入交流群找**群主**或其它工作室的**创始成员**申请哦
 
+<ul>
+  <li>
+    当前页面浏览量:
+    <span class="waline-pageview-count" />
+  </li>
+  <li>
+    主页浏览量:
+    <span class="waline-pageview-count" data-path="/" />
+  </li>
+</ul>
+<script type="module">
+  import { pageviewCount } from 'https://unpkg.com/@waline/client@v3/dist/pageview.js';
+
+  pageviewCount({
+    serverURL: 'https://waline.escateam.icu',
+    path: window.location.pathname,
+
+    // 可选的，用于自定选择器，默认为 `'.waline-pageview-count'`
+    // selector: 'waline-pageview-count',
+
+    // 可选的，是否在获取时增加访问量，默认为 `true`
+    // update: true,
+  });
+</script>
