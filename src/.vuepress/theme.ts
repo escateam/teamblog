@@ -80,6 +80,7 @@ export default hopeTheme({
       text: "💰业务列表",
       icon: "layout",
       link: "/service/",
+      collapsible: true,
       children: [
         {
           text: "代建云崽",
