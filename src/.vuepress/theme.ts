@@ -61,13 +61,25 @@ export default hopeTheme({
       icon: "project",
       link: "/project/",
       collapsible: true,
-      children: "structure",
+      children: [
+        {
+          text: "Yunzai机器人项目",
+          link: "/project/bot",
+        },
+        {
+          text: "mc公共服务器项目",
+          link: "/project/mc",
+        },
+        {
+          text: "waline评论系统",
+          link: "/project/waline",
+        },
+      ],
     },
     {
       text: "💰业务列表",
       icon: "layout",
       link: "/service/",
-      collapsible: true,
       children: [
         {
           text: "代建云崽",
