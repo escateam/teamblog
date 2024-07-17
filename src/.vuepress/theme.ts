@@ -77,12 +77,12 @@ export default hopeTheme({
           text: "代建waline",
           link: "/service/waline",
         },
-        {
-          text: "👬友情链接",
-          icon: "friend",
-          link: "/friend",
-        },
       ],
+    },
+    {
+      text: "👬友情链接",
+      icon: "friend",
+      link: "/friend",
     },
   ],
         
