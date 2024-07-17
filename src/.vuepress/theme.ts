@@ -37,7 +37,7 @@ export default hopeTheme({
       link: "/friend",
     },
     {
-      text: "💰业务栏",
+      text: "业务栏",
       icon: "layout",
       link: "/service/",
     },
@@ -45,6 +45,10 @@ export default hopeTheme({
       text: "赞助",
       icon: "/like.png",
       link: "/like",
+    },
+    {
+      text: "🌟关于本站",
+      link: "/about",
     },
   ],
 
