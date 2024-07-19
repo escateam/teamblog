@@ -178,7 +178,11 @@ export default hopeTheme({
         sup: true,	    // 启用上角标
         tabs: true,     // 启用选项卡
         vPre: true,     // 启用 v-pre 容器
-        alert: true,    //启用GFM警告容器
+        alert: true,    //启用GFM警告
+        spoiler: true,
+        chart: true,
+        markmap: true,
+        flowchart: true,
       playground: {
         presets: ["ts", "vue"],
       },

@@ -15,4 +15,10 @@ tag:
 
 ![](/king.jpg)
 
+::: test
+
+*test*
+
+:::
+
 </div>
