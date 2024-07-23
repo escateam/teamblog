@@ -11,7 +11,7 @@ tagline: 「自由朝天,向心出发」
 projects:
   - icon: project
     name: 简介
-    desc: 成员详情及开发运营项目
+    desc: 成员详情及运营项目
     link: /introduction
 
   - icon: project
