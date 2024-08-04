@@ -15,3 +15,5 @@ tag:
 
 ![](/king.jpg)
 </div>
+
+<Share colorful />

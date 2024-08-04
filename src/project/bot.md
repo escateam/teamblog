@@ -21,3 +21,5 @@ tag:
 ### 免费代挂服务
 
 [戳我传送至文档](https://botdocs.escateam.icu)
+
+<Share colorful />

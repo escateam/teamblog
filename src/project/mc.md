@@ -17,3 +17,5 @@ tag:
 ![](/minecraft.png)
 
 ### [文档](https://mcdocs.escateam.icu)
+
+<Share colorful />

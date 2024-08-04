@@ -18,3 +18,5 @@ tag:
 > 您可以在[业务栏](/service/)资讯代建服务
 
 ### [官方文档](https://waline.js.org/)
+
+<Share colorful />

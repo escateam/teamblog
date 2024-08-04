@@ -46,3 +46,5 @@ tag:
   link="https://github.com/ATYQBMZ"
   background="rgba(253, 230, 138, 0.15)"
 />
+
+<Share colorful />

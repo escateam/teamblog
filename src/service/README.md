@@ -25,3 +25,5 @@ sticky: 444
 | 专业版云崽                | 您的云崽将拥有一个独立系统<br />您享有全部控制权 | [查看详情](/service/server)           | 依套餐定价    |
 
 </div>
+
+<Share colorful />

@@ -20,3 +20,5 @@ tag:
 
 - [Yunzai机器人](/project/bot)
 - [mc我的世界服务器](/project/mc)
+
+<Share colorful />

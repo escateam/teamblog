@@ -21,3 +21,5 @@ sticky: 555
 - `G e i s h a` ¥10.00
 - `なかの いつき` ¥10.00
 - `瑜笙` ¥3.00
+
+<Share colorful />
