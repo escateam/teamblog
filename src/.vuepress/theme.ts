@@ -94,6 +94,20 @@ export default hopeTheme({
           text: "代建waline",
           link: "/service/waline",
         },
+        {
+          text: "云崽服务器",
+          link: "/service/server",
+          children: [
+            {
+              text: "服务条款",
+              link: "/server/service",
+            },
+            {
+              text: "隐私政策",
+              link: "/server/privacy",
+            },
+          ],
+        },
       ],
     },
     {
@@ -105,9 +119,9 @@ export default hopeTheme({
         
     
 
-  footer: 'Powered By EscaWorkTeam',
+  footer: '<a href="https://icp.gov.moe/?keyword=20242430" target="_blank">萌ICP备20242430号</a>',
 
-  copyright: 'Copyright 2023-present ©朝天工作室',
+  copyright: 'Powered By EscaWorkTeam Copyright 2023-present ©朝天工作室',
   
   // 显示脚页
   displayFooter: true,
