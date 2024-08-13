@@ -71,8 +71,8 @@ export default hopeTheme({
           link: "/project/bot",
         },
         {
-          text: "mc公共服务器项目",
-          link: "/project/mc",
+          text: "公益docker代理",
+          link: "/project/docker",
         },
         {
           text: "waline评论系统",
