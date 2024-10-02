@@ -40,8 +40,8 @@ tag:
 />
 
 <VPCard
-  title="Мирный."
-  desc="我们这个工作室不是卖朝天椒的"
+  title="PawDrizzle"
+  desc="我只是做了点小事情"
   logo="/4.jpg"
   link="https://github.com/ATYQBMZ"
   background="rgba(253, 230, 138, 0.15)"
