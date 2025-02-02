@@ -5,6 +5,6 @@ export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "朝天工作室",
-  description: "朝天工作室（EcsaWorkTeam）博客",
+  description: "朝天工作室（EcsaStudio）博客",
   theme,
 });
