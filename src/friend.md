@@ -40,10 +40,10 @@ tag:
 />
 
 <VPCard
-  title="PawDrizzle"
-  desc="我只是做了点小事情"
+  title="kanseijo"
+  desc="我不到啊"
   logo="/4.jpg"
-  link="https://github.com/ATYQBMZ"
+  link="https://github.com/kanseijo"
   background="rgba(253, 230, 138, 0.15)"
 />
 

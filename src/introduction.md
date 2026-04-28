@@ -43,14 +43,14 @@ tag:
 
 *我们都生活在阴沟里，但仍有人仰望星空。*
 
-### PawDrizzle
+### kanseijo
 <img src="/4.jpg" height="100px" width="100px" alt="社交图像" />
 
 <br>
 
 **创始成员，开发者**
 
-*我只是做了点小事情*
+*我不到啊*
 
 </div>
 
